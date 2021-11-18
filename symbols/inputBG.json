@@ -1,0 +1,39 @@
+{
+    "background": "rgb(201,201,201)",
+    "gridBlockSize": 1,
+    "gridThickLinesEvery": 20,
+    "gridThickColor": "rgb(191, 191, 191)",
+    "gridLightColor": "rgba(191, 191, 191, 0.2)",
+    "gridZoomThreshold": 0.25,
+    "width": 300,
+    "height": 38,
+    "fitSize": false,
+    "comps": [
+      {
+        "type": "roundRect",
+        "background": "rgb(255,255,255)",
+        "borderWidth": 1,
+        "borderColor": "rgba(217,217,217,0.5)",
+        "cornerRadius": 16,
+        "anchorX": 0,
+        "rect": [
+          1.9999999999999858,
+          2.0000000000000036,
+          296,
+          34
+        ]
+      },
+      {
+        "type": "image",
+        "name": "symbols/search.json",
+        "scaleX": 0.8,
+        "scaleY": 0.8,
+        "rect": [
+          9,
+          3.0000000000000036,
+          36,
+          32
+        ]
+      }
+    ]
+  }

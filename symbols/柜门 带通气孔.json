@@ -1,0 +1,557 @@
+{
+  "gridBlockSize": 1,
+  "gridThickLinesEvery": 20,
+  "gridThickColor": "rgb(191, 191, 191)",
+  "gridLightColor": "rgba(191, 191, 191, 0.2)",
+  "gridZoomThreshold": 0.25,
+  "width": 128,
+  "height": 256,
+  "fitSize": false,
+  "comps": [
+    {
+      "type": "rect",
+      "background": "rgb(217,217,217)",
+      "borderColor": "rgb(150,150,150)",
+      "rect": [
+        0,
+        0,
+        128,
+        256
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(212,212,207)",
+      "borderWidth": 1,
+      "borderColor": "rgb(173,170,170)",
+      "borderJoin": "bevel",
+      "gradient": "linear.northwest",
+      "gradientColor": "rgb(240,240,235)",
+      "rect": [
+        9,
+        5,
+        108,
+        247
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 1,
+      "background": "rgb(69,67,67)",
+      "borderWidth": 1,
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        15.069434789830055,
+        114.65753565336951,
+        5.393861253415267,
+        27.684928693261
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 1,
+      "background": "rgb(255,255,255)",
+      "borderWidth": 1,
+      "borderColor": "rgb(194,194,194)",
+      "cornerRadius": 0.5,
+      "rect": [
+        46.99372457500533,
+        39.77764656355166,
+        34.01255084998934,
+        9.601500894650394
+      ]
+    },
+    {
+      "type": "text",
+      "text": "XX某设备",
+      "color": "rgb(84,84,84)",
+      "font": "6px arial, sans-serif",
+      "rect": [
+        48.168058695466634,
+        39.777646563551656,
+        29.663882609066732,
+        9.299808740871605
+      ]
+    },
+    {
+      "type": "roundRect",
+      "background": "rgb(173,170,170)",
+      "borderColor": "#979797",
+      "rect": [
+        15.069434789830055,
+        11.258793323682921,
+        26.312281468733445,
+        2.3747178467740477
+      ]
+    },
+    {
+      "type": "roundRect",
+      "background": "rgb(173,170,170)",
+      "borderColor": "#979797",
+      "rect": [
+        110.68351152033252,
+        11.258793323682921,
+        2.881679190471793,
+        3.0799757996553145
+      ]
+    },
+    {
+      "type": "roundRect",
+      "background": "rgb(173,170,170)",
+      "borderColor": "#979797",
+      "rect": [
+        115.55464594027875,
+        44.57839701087686,
+        1.0789722780310562,
+        17.36847452432353
+      ]
+    },
+    {
+      "type": "roundRect",
+      "background": "rgb(173,170,170)",
+      "borderColor": "#979797",
+      "rect": [
+        115.55464594027875,
+        199.76287449294372,
+        1.0789722780310562,
+        17.36847452432353
+      ]
+    },
+    {
+      "type": "roundRect",
+      "background": "rgb(173,170,170)",
+      "borderColor": "#979797",
+      "rect": [
+        110.68351152033252,
+        15.795353046321004,
+        2.881679190471793,
+        3.0799757996553145
+      ]
+    },
+    {
+      "type": "roundRect",
+      "background": "rgb(173,170,170)",
+      "borderColor": "#979797",
+      "rect": [
+        105.5595776183142,
+        11.258793323682921,
+        2.881679190471793,
+        3.0799757996553145
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        20.463296043245325,
+        168.3713504148563,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        20.463296043245325,
+        179.4928662208744,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        20.463296043245325,
+        190.61438202689249,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        20.463296043245325,
+        201.73589783291058,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        20.463296043245325,
+        223.97892944494677,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        20.463296043245325,
+        235.10044525096487,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        20.463296043245325,
+        212.85741363892868,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        52.51672693638923,
+        168.3713504148563,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        52.51672693638923,
+        179.4928662208744,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        52.51672693638923,
+        190.61438202689249,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        52.51672693638923,
+        201.73589783291058,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        52.51672693638923,
+        223.97892944494677,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        52.51672693638923,
+        235.10044525096487,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        52.51672693638923,
+        212.85741363892868,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        85.36829715218839,
+        168.3713504148563,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        85.36829715218839,
+        179.4928662208744,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        85.36829715218839,
+        190.61438202689249,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        85.36829715218839,
+        201.73589783291058,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        85.36829715218839,
+        223.97892944494677,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        85.36829715218839,
+        235.10044525096487,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "shadow": true,
+      "shadowColor": "rgb(0,0,0)",
+      "shadowBlur": 0,
+      "shadowOffsetX": 0,
+      "shadowOffsetY": 2,
+      "background": "rgb(247,247,242)",
+      "borderColor": "rgb(117,117,115)",
+      "borderJoin": "bevel",
+      "rect": [
+        85.36829715218839,
+        212.85741363892868,
+        25.315214368144133,
+        3.748360038240442
+      ]
+    },
+    {
+      "type": "roundRect",
+      "background": "rgb(235,80,80)",
+      "borderColor": "#979797",
+      "cornerRadius": 1,
+      "rect": [
+        47.03480595807934,
+        33.36669136925649,
+        4,
+        2
+      ]
+    },
+    {
+      "type": "roundRect",
+      "background": "rgb(80,165,235)",
+      "borderColor": "#979797",
+      "cornerRadius": 1,
+      "rect": [
+        54.01740297903967,
+        33.36669136925649,
+        4,
+        2
+      ]
+    },
+    {
+      "type": "roundRect",
+      "background": "rgb(80,235,173)",
+      "borderColor": "#979797",
+      "cornerRadius": 1,
+      "rect": [
+        61,
+        33.36669136925649,
+        4,
+        2
+      ]
+    },
+    {
+      "type": "roundRect",
+      "background": "rgb(179,179,179)",
+      "borderColor": "#979797",
+      "cornerRadius": 1,
+      "rect": [
+        76.65760718407206,
+        33.36669136925649,
+        4,
+        2
+      ]
+    }
+  ]
+}

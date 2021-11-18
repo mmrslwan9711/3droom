@@ -1,0 +1,351 @@
+{
+  "width": 74,
+  "height": 64,
+  "comps": [
+    {
+      "type": "rect",
+      "background": "rgba(240,240,240,0.6)",
+      "borderWidth": 2,
+      "borderColor": "rgb(41,155,217)",
+      "borderJoin": "bevel",
+      "rect": [
+        2.2181,
+        1.55893,
+        69.5638,
+        56.83758
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(41,155,217)",
+      "borderColor": "#979797",
+      "rect": [
+        2.45766,
+        2.07751,
+        0.76739,
+        56.88637
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgba(41,155,217,0.6)",
+      "borderColor": "rgb(41,155,217)",
+      "borderJoin": "bevel",
+      "rect": [
+        2.68841,
+        60.35405,
+        13.85379,
+        2.74059
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgba(41,155,217,0.4)",
+      "borderColor": "rgb(41,155,217)",
+      "borderJoin": "bevel",
+      "anchorY": 4.04579,
+      "rect": [
+        18.13175,
+        60.95637,
+        53.85214,
+        1.20648
+      ]
+    },
+    {
+      "type": "rightTriangle",
+      "background": "rgb(41,155,217)",
+      "borderColor": "#979797",
+      "rotation": 4.71239,
+      "rect": [
+        61.20187,
+        48.18186,
+        10.88851,
+        10.67553
+      ]
+    },
+    {
+      "type": "rightTriangle",
+      "background": "rgb(41,155,217)",
+      "borderColor": "#979797",
+      "rotation": 1.5708,
+      "rect": [
+        3.41537,
+        1.86251,
+        10.89567,
+        11.42323
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(9,10,36)",
+      "borderColor": "#979797",
+      "rect": [
+        3.67284,
+        2.73161,
+        0.63462,
+        0.60531
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(9,10,36)",
+      "borderColor": "#979797",
+      "rect": [
+        4.94209,
+        2.73161,
+        0.63462,
+        0.60531
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(9,10,36)",
+      "borderColor": "#979797",
+      "anchorX": 4.5,
+      "anchorY": 0.36,
+      "rect": [
+        6.21134,
+        2.73161,
+        0.63462,
+        0.60531
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(9,10,36)",
+      "borderColor": "#979797",
+      "rect": [
+        3.67284,
+        3.94224,
+        0.63462,
+        0.60531
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(9,10,36)",
+      "borderColor": "#979797",
+      "rect": [
+        4.94209,
+        3.94224,
+        0.63462,
+        0.60531
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(9,10,36)",
+      "borderColor": "#979797",
+      "rect": [
+        3.67284,
+        5.15287,
+        0.63462,
+        0.60531
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(9,10,36)",
+      "borderColor": "#979797",
+      "rect": [
+        7.48058,
+        2.73161,
+        0.63462,
+        0.60531
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(9,10,36)",
+      "borderColor": "#979797",
+      "rect": [
+        6.21134,
+        3.94224,
+        0.63462,
+        0.60531
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(9,10,36)",
+      "borderColor": "#979797",
+      "rect": [
+        4.94209,
+        5.15287,
+        0.63462,
+        0.60531
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(9,10,36)",
+      "borderColor": "#979797",
+      "rect": [
+        3.67284,
+        6.3635,
+        0.63462,
+        0.60531
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(255,255,255)",
+      "borderColor": "#979797",
+      "rect": [
+        29.78928,
+        8.97773,
+        9,
+        42
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(148,199,60)",
+      "borderColor": "#979797",
+      "rect": [
+        30.78928,
+        40.02196,
+        7,
+        10
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(39,189,219)",
+      "borderColor": "#979797",
+      "rect": [
+        30.78928,
+        30.02196,
+        7,
+        10
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(235,122,35)",
+      "borderColor": "#979797",
+      "rect": [
+        30.78928,
+        20.02196,
+        7,
+        10
+      ]
+    },
+    {
+      "type": "rect",
+      "background": "rgb(240,58,17)",
+      "borderColor": "#979797",
+      "rect": [
+        30.78928,
+        10.02196,
+        7,
+        10
+      ]
+    },
+    {
+      "type": "text",
+      "text": "LOW",
+      "align": "right",
+      "color": "rgb(148,199,60)",
+      "scaleX": 0.5,
+      "scaleY": 0.5,
+      "rect": [
+        6.47527,
+        39.55248,
+        29.42255,
+        10.93896
+      ]
+    },
+    {
+      "type": "text",
+      "text": "MID",
+      "align": "right",
+      "color": "rgb(39,189,219)",
+      "scaleX": 0.5,
+      "scaleY": 0.5,
+      "rect": [
+        8.64647,
+        30.52196,
+        26.52761,
+        9
+      ]
+    },
+    {
+      "type": "text",
+      "text": "HIGH",
+      "align": "right",
+      "color": "rgb(235,122,35)",
+      "scaleX": 0.5,
+      "scaleY": 0.5,
+      "rect": [
+        3.2784,
+        19.44044,
+        33.68505,
+        11.16304
+      ]
+    },
+    {
+      "type": "text",
+      "text": "HIGH",
+      "align": "right",
+      "color": "rgb(240,58,17)",
+      "scaleX": 0.5,
+      "scaleY": 0.5,
+      "rect": [
+        5.54518,
+        11.02196,
+        32.2599,
+        12
+      ]
+    },
+    {
+      "type": "text",
+      "text": "VERY",
+      "align": "right",
+      "color": "rgb(240,58,17)",
+      "scaleX": 0.45,
+      "scaleY": 0.45,
+      "rect": [
+        2.17863,
+        6.46649,
+        38.01582,
+        11.80065
+      ]
+    },
+    {
+      "type": "shape",
+      "background": "rgb(255,255,255)",
+      "borderWidth": 0.5,
+      "borderColor": "rgb(41,155,217)",
+      "points": [
+        34.28928,
+        35.37408,
+        40.57078,
+        32.36718,
+        40.57078,
+        25.8962,
+        67.99636,
+        25.8962,
+        67.99636,
+        44.14772,
+        40.57078,
+        44.14772,
+        40.57078,
+        38.37408,
+        34.28928,
+        35.37408
+      ]
+    },
+    {
+      "type": "text",
+      "text": "60.6",
+      "color": "rgb(39,189,219)",
+      "rect": [
+        39.28928,
+        32.02196,
+        16,
+        6
+      ]
+    }
+  ]
+}

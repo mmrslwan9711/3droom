@@ -1,0 +1,24 @@
+{
+    "gridBlockSize": 1,
+    "gridThickLinesEvery": 20,
+    "gridThickColor": "rgb(191, 191, 191)",
+    "gridLightColor": "rgba(191, 191, 191, 0.2)",
+    "gridZoomThreshold": 0.25,
+    "width": 30,
+    "height": 30,
+    "fitSize": false,
+    "comps": [
+      {
+        "type": "image",
+        "name": "assets/icons2/报警 copy.png",
+        "scaleX": 0.9,
+        "scaleY": 0.9,
+        "rect": [
+          -1,
+          0,
+          32,
+          30
+        ]
+      }
+    ]
+  }
